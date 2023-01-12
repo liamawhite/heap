@@ -1,2 +1,3 @@
-# heap
-A basic heap implementation in Go to play around with Generics
+# Heap
+
+A basic max heap implementation in Go to play around with Generics
